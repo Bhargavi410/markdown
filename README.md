@@ -43,4 +43,9 @@ return 0;
 ```
 ### Inserting Urls
 [face book](https://www.facebook.com/)
-  
+- college web site link
+[kits](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
+- gmail link
+[gmail](https://www.google.com/gmail/)
+- git official site url
+[git](https://git-scm.com/)
