@@ -22,6 +22,6 @@ _*ece*_
 1. ece
 2. cse
   1. eceA
-  2. cseA
+    2. cseA
 3. eee
   
