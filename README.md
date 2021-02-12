@@ -33,4 +33,5 @@ _*ece*_
 print("hello")
 ```
 ### task Insert a code of hello in c
+print ("hello bhargavi")
   
