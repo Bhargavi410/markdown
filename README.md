@@ -29,7 +29,7 @@ _*ece*_
     * eceA
     * eceB
 ### code
-`python
+```python
 print("hello")
-`
+```
   
