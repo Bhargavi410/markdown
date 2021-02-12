@@ -33,12 +33,12 @@ _*ece*_
 print("hello")
 ```
 ### task Insert a code of hello in c
-print ("hello bhargavi")
+```
 #include <stdio.h>
 int main(); 
 {
 printf("hello , world!");
 return 0;
 }
-
+```
   
