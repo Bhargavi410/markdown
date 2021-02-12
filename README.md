@@ -51,3 +51,5 @@ return 0;
 [git](https://git-scm.com/)
 
 ![flower](https://github.com/Bhargavi410/markdown/blob/master/image%201.jpg)
+## Inserting videos
+[![video](https://img.youtube.com/vi/hoNb6HuNmU0/0.jpg)](https://www.youtube.com/watch?v=hoNb6HuNmU0)
